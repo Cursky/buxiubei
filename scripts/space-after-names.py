@@ -41,8 +41,10 @@ CJK = r'[\u4e00-\u9fa5]'
 
 def inject_space_in_segment(seg: str) -> str:
     for name in NAMES:
-        pat = re.compile(rf'({re.escape(name)})({CJK})')
-        seg = pat.sub(r'\1 \2', seg)
+        # 名字后紧接 CJK → 插空格
+        seg = re.sub(rf'({re.escape(name)})({CJK})', r'\1 \2', seg)
+        # 名字前紧接 CJK → 插空格
+        seg = re.sub(rf'({CJK})({re.escape(name)})', r'\1 \2', seg)
     return seg
 
 
