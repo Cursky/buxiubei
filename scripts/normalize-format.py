@@ -37,14 +37,18 @@ def pick_scene(material_line: str) -> str:
     return items[-1] if items else ''
 
 
-SHOT_HEAD_PAT = re.compile(r'镜头\s*(\d+)：([^\n，]+?)，([^\n。]*?)。')
+SHOT_HEAD_PAT = re.compile(r'镜头\s*(\d+)：([^。\n]+)。')
 
 
 def extract_shots(prompt_body: str):
-    """返回 [(景别, 运镜)] 列表。"""
+    """返回 [(景别, 运镜)] 列表；景别=首逗号前，运镜=首逗号后（无则空）。"""
     shots = []
     for m in SHOT_HEAD_PAT.finditer(prompt_body):
-        shots.append((m.group(2).strip(), m.group(3).strip()))
+        head = m.group(2)
+        parts = [p.strip() for p in head.split('，', 1)]
+        jing = parts[0]
+        yun = parts[1] if len(parts) > 1 else ''
+        shots.append((jing, yun))
     return shots
 
 
