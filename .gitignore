@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE & tools
+.claude/
+
+# OS
+**/.DS_Store
