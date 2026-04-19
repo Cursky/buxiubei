@@ -1,0 +1,56 @@
+# 图片资源列表
+
+剧名: 不朽杯1
+项目ID: 不朽杯1_a695d51e
+
+## 角色图
+森林 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png
+龙骑-小黑 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/龙骑-小黑.jpg
+鸟 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鸟.jpg
+鲷哥-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png
+隐刺-敌方2号位 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/隐刺-敌方2号位.jpg
+超哥-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png
+训练室复盘区 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg
+解说员-赛事直播间 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/解说员-赛事直播间.png
+莱恩-敌方中单 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/莱恩-敌方中单.jpg
+肉山 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/肉山.jpg
+神谕者-敌方中单 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/神谕者-敌方中单.jpg
+真视宝石 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/真视宝石.jpg
+火枪手-敌方射手 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/火枪手-敌方射手.jpg
+潮汐猎人-鲷哥 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/潮汐猎人-鲷哥.jpg
+深夜电竞房 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/深夜电竞房.jpg
+沙王-敌方1号位 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/沙王-敌方1号位.png
+水人-小黑 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/水人-小黑.png
+比赛选手席 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg
+月神白虎-敌方辅助 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/月神白虎-敌方辅助.jpg
+时空管理局 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/时空管理局.png
+斯温-超哥 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/斯温-超哥.jpg
+敌法师-超哥 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌法师-超哥.jpg
+敌方辅助-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌方辅助-电竞队服.png
+敌方射手-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌方射手-电竞队服.png
+敌方2号位-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌方2号位-电竞队服.png
+敌方1号位-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌方1号位-电竞队服.png
+撼地者-小黑 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/撼地者-小黑.jpg
+推推棒 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/推推棒.png
+拉比克-小黑 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/拉比克-小黑.jpg
+我方路人3 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/我方路人3.png
+我方路人2 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/我方路人2.jpg
+我方路人 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/我方路人.jpg
+影魔-小黑 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/影魔-小黑.jpg
+小黑-电竞队服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png
+小黑-家居服 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-家居服.png
+小牛-敌方辅助 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小牛-敌方辅助.png
+对战河道 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/对战河道.jpg
+基地场景 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/基地场景.jpg
+图像生成 #1 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/图像生成 #1.png
+兽王-鲷哥 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/兽王-鲷哥.jpg
+不朽盾 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/不朽盾.png
+不朽杯采访台 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/不朽杯采访台.png
+不朽杯现场 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/不朽杯现场.jpg
+三视图 #1 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/三视图 #1.png
+BKB-装备图标 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/BKB-装备图标.png
+
+## 音频资源
+系统音 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav
+鲷哥声音 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3
+超哥声音 | https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3
