@@ -1,0 +1,1666 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "projectName": "EP02 压缩版 视频提示词",
+    "style": "3D国漫风格，高品质CG渲染，电影级光影，8K分辨率",
+    "totalDuration": 176,
+    "aspectRatio": "16:9"
+  },
+  "tasks": [
+    {
+      "id": "V01",
+      "sceneName": "承接 EP01 钩子：肉山 坑双方集结",
+      "duration": 10,
+      "prompt": "V01V01\n> @撼地者-小黑、@潮汐猎人-鲷哥、@敌法师-超哥 作为游戏内英雄参考。@肉山、对战@森林 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：低角度平视横摇。相机以肩高视角贴近 @肉山 坑边缘，画面中心是 @肉山 缓慢咆哮、头顶红色血条只剩一小节；镜头从坑左边缘横摇至右边缘，带过我方三名英雄贴左岩壁蹲守（@撼地者-小黑 靠前）、敌方五名英雄贴右岩壁压上的阵型；野区草丛边缘金色六芒星视野符文亮着。\n> 镜头2：装备栏 HUD 近景 + 过肩推进。画面左下角 HUD 跳刀图标明亮闪烁冷却完成；镜头绕到 @撼地者-小黑 身后过肩前推，他脚下浮现一圈金绿色大招符文缓慢转动。\n> 冷暖交织色调 + @肉山 坑灯光；紧张对峙 BGM + 低沉鼓点 + 兵线远景音效。3D国漫风格，电影级光影，8K画质。全程以贴近战场的 3D 动漫电影镜头呈现，不使用游戏俯视视角；DOTA2 英雄与 @肉山、跳刀装备均严格符合官方视觉；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "撼地者-小黑",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/撼地者-小黑.jpg",
+          "mentionText": "撼地者-小黑"
+        },
+        {
+          "name": "潮汐猎人-鲷哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/潮汐猎人-鲷哥.jpg",
+          "mentionText": "潮汐猎人-鲷哥"
+        },
+        {
+          "name": "敌法师-超哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌法师-超哥.jpg",
+          "mentionText": "敌法师-超哥"
+        },
+        {
+          "name": "肉山",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/肉山.jpg",
+          "mentionText": "肉山"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        }
+      ],
+      "sceneImages": [],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "潮汐猎人-鲷哥",
+          "position": 14
+        },
+        {
+          "type": "character",
+          "name": "敌法师-超哥",
+          "position": 23
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 41
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 47
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 117
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 131
+        },
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 181
+        },
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 280
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 326
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 418
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V02",
+      "sceneName": "撼地者-小黑 原地跳刀空大",
+      "duration": 9,
+      "prompt": "V02V02\n> @撼地者-小黑 作为游戏内英雄参考。对战@森林 作为背景参考。敌方五英雄 作为对手方参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：过肩特写，手持晃动。紧贴 @撼地者-小黑 背后过肩——他按下腰间跳刀，脚下迸出一圈淡紫色闪烁漩涡（跳刀起跳特效），身体腾空翻转半米后重重落回原地、落点与起跳点完全重合、脚边扬起薄薄一圈尘土（\"跳刀距离为 0\"）；此时他身边方圆五米内空无一人——敌方五人在他起跳前半秒已向后撤出，呈扇形站在六米外圈。\n> 镜头2：中景弧形环绕,手持晃动。他双脚并拢、双手高举石锤向下砸向脚下大地；触地一瞬地面裂开金褐色闪电状裂纹向外辐射、末端弹起一圈直径三米的灰褐色岩石尖柱（回音击），但最外圈岩柱尖端距最近敌方脚边仍差一米、冲击波只打到空气、没有任何敌方眩晕；紧接着敌方三人反打——敌方 1 号位 纵跳劈斩命中 @撼地者-小黑 肩膀、敌方中单 橙红火球甩向我方辅助、敌方辅助 雷光锁链套住我方核心；我方三人血条瞬间清零、身形化作光点消散（团灭）。\n> 暖金色调 + 技能光效；跳刀闪现音 + 地震冲击波闷响 + 敌方反打音效 + 观众惊呼；战斗激烈 BGM 急促弦乐。3D国漫风格，电影级光影，8K画质。全程以贴近战场的 3D 动漫电影镜头呈现，不使用游戏俯视视角；DOTA2 跳刀、回音击特效严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "撼地者-小黑",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/撼地者-小黑.jpg",
+          "mentionText": "撼地者-小黑"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        }
+      ],
+      "sceneImages": [],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 26
+        },
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 105
+        },
+        {
+          "type": "character",
+          "name": "撼地者-小黑",
+          "position": 390
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V03",
+      "sceneName": "超哥-电竞队服 麦克风炸裂怒吼",
+      "duration": 8,
+      "prompt": "V03V03\n> @超哥-电竞队服 作为角色外貌参考。@比赛选手席 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：近景，固定机位。@超哥-电竞队服 从椅子弹起、双手拽近麦克风、右手手指戳向屏幕画圈、身体前倾。\n> 镜头2：特写，顺势推近。镜头落至 @超哥-电竞队服 面部——双眼瞪圆、嘴巴张到最大、额头青筋暴起、唾沫飞溅。\n> @超哥-电竞队服（@超哥声音）说：「你在干嘛？你这小牛原地大跳是什么操作？跳刀买了不用来进场，搁这原地蹦迪呢？别教我玩 DOTA 啊！小牛跳大的基本操作都不会？」（语气：瞬间炸毛、麦克风炸裂、刺耳）\n> 暗红色调 + 选手席蓝紫灯光 + 暴怒红光；@超哥-电竞队服 怒吼人声 + 麦克风过载噪声 + 观众席低鸣；战斗激烈 BGM。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "超哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3",
+          "mentionText": "超哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 24
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 87
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 146
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 186
+        },
+        {
+          "type": "audio",
+          "name": "超哥声音",
+          "position": 195
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 310
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V04",
+      "sceneName": "鲷哥-电竞队服 侧身嘲讽",
+      "duration": 8,
+      "prompt": "V04V04\n> @小黑-电竞队服、@鲷哥-电竞队服 作为角色外貌参考。@比赛选手席 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：过肩镜头，固定机位。相机架于 @小黑-电竞队服 背后（轴线 A 侧），拍 @鲷哥-电竞队服（轴线 B 侧）；@鲷哥-电竞队服 侧头抬眼皮看向 @小黑-电竞队服、双手搭在扶手。\n> 镜头2：近景，顺势推近。镜头落至 @鲷哥-电竞队服 面部——眼神平淡带嘲讽、嘴角若有若无上扬、下巴微抬。\n> @鲷哥-电竞队服（@鲷哥声音）说：「这波原地大跳空大，比潮汐空大还下饭啊！这么基础的操作，你都能玩成原地蹦迪，你养老还是我养老？」（语气：沉默良久后平淡嘲讽、刺）\n> 冷暖交织色调 + 选手席舞台蓝光；@鲷哥-电竞队服 低沉人声 + 远景观众席嘈杂；紧张对峙 BGM 低沉弦乐。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 103
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 125
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 142
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 159
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 195
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 233
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 242
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 334
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V05",
+      "sceneName": "小黑-电竞队服 拍桌演技爆发 + 倒计时 5/4/3",
+      "duration": 12,
+      "prompt": "V05V05\n> @小黑-电竞队服 作为角色外貌参考。@比赛选手席 作为背景参考。@系统音 / 系统面板 作为非人实体参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：中景，缓慢推进。@小黑-电竞队服 猛拍桌子、桌上矿泉水瓶震倒；站起半身、右手拍胸口左手指天；系统面板在画面右侧血红倒计时跳动 \"5、4、3\" 一秒一跳。\n> 镜头2：特写，顺势推近。镜头推进至 @小黑-电竞队服 面部——眉毛拧起、眼睛瞪圆、嘴巴张合间露出牙齿、额头冷汗但眼神故作坚定；最后一跳定格在血红倒计时数字。\n> @小黑-电竞队服 说：「你们懂个屁！这波怪我？我这个原地大跳，是为了迷惑对面，让他们误以为我要进场开团，从而打乱他们的阵型，这是我精心设计的战术！骄兵必胜，胜兵必哀，哀兵必胜！懂不懂？」（语气：猛拍桌子、洪亮理直气壮、演技拉满）\n> 暗红色调 + 血红倒计时光 + 选手席紫光；拍桌音效 + 水瓶翻倒声 + 血红倒计时滴答音 + @小黑-电竞队服 怒吼；紧张对峙 BGM 渐强。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "系统音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav",
+          "mentionText": "系统音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 24
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 38
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 108
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 197
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 260
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 425
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V06",
+      "sceneName": "超哥-电竞队服 愣住 + 小黑-电竞队服 乘胜追击",
+      "duration": 10,
+      "prompt": "V06V06\n> @超哥-电竞队服、@小黑-电竞队服 作为角色外貌参考。@比赛选手席 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：双人镜头，固定机位（保持 180° 轴线）。左侧 @超哥-电竞队服 侧头微偏；右侧 @小黑-电竞队服 逼近 @超哥-电竞队服 方向举双手挥动；两人同框。\n> 镜头2：近景，缓慢推进。镜头切至 @超哥-电竞队服 面部——眉头\"川\"字疑惑、瞳孔放缩、嘴半张；再切至 @小黑-电竞队服 面部——眉飞色舞、嘴角上扬带嘲讽。\n> @超哥-电竞队服（@超哥声音）说：「啥玩意？」（语气：愣住、被问懵）\n> @小黑-电竞队服 说：「就因为你们反应太慢，没跟上我的节奏，没及时冲进我的黑洞力场，才导致团灭！这波锅，超哥你背 50%，谁让你不先手，还红温乱冲；队长你没给我加 Buff，没及时拉扯，也背 50%！」（语气：乘胜追击、义正言辞、嘲讽）\n> 冷暖交织色调 + 选手席紫光；@超哥-电竞队服 疑惑音 + @小黑-电竞队服 连珠炮人声；紧张对峙 BGM。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "超哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3",
+          "mentionText": "超哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 113
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 130
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 142
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 184
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 219
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 248
+        },
+        {
+          "type": "audio",
+          "name": "超哥声音",
+          "position": 257
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 285
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 421
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 436
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V07",
+      "sceneName": "系统绿色提示 + 超哥-电竞队服 红温 Buff + 斯温 一敌五翻盘",
+      "duration": 13,
+      "prompt": "V07V07\n> @超哥-电竞队服 作为真人角色参考。@斯温-超哥 作为游戏内英雄参考。@比赛选手席、对战@森林 作为背景参考。@系统音 / 系统面板 作为非人实体参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：中景 + 特写，缓慢推进。系统面板弹出绿色提示、【红温狂暴 Buff】图标旋转放大；@超哥-电竞队服 身上泛起红色狂暴光晕、拍桌怒吼转回屏幕；面部双眼冒火、青筋浮起、脸涨红。\n> 镜头2：低角度 360° 环绕跟拍。@斯温-超哥 被敌方五人从 12 点、2 点、5 点、8 点钟方位半包围，仰头怒吼、脚下\"轰\"地炸开一圈血红色环状能量光波（神力觉醒大招），身形略膨胀、浑身被血红狂暴光晕环绕；右手掷出缠绕螺旋蓝色闪电的战锤（风暴之锤）——锤头命中 12 点方位敌方法师头盔、锤身附带紫蓝色连锁闪电弹到 2 点敌方辅助身上、辅助被劈中原地僵立双臂下垂；紧接着他左手反握亮出通体金光的神圣之剑、身体猛侧旋——金色光弧横劈斩中 5 点敌方射手腰部、射手身形对半折起血条清零化光；8 点方位敌方核心举斧偷袭冲上、@斯温-超哥 反手一记金剑上挑、连人带斧挑飞化光；最后 10 点方位敌方转身欲逃、@斯温-超哥 一个健步跨出三米、金剑从头顶向下重劈将其劈成光点；画面只剩@斯温-超哥 独自矗立战场中央、血条完好、脚下散落五道敌方残影。\n> @系统音（系统声音，绿色面板提示）说：「甩锅成功！逻辑闭环，队友信服度达标。队友超哥获得【红温狂暴 Buff：操作+300%，抗性+500%】。」（语气：系统通告、清脆）\n> @超哥-电竞队服（@超哥声音）说：「妈的……老子反应慢？你看好了！妈的……你好好看着吧！今天就让你看看，什么叫顶级操作！」（语气：激怒、拍桌怒吼）\n> 暗红色调 + 绿色系统提示光 + 斯温红色狂暴光晕；系统清脆锵音 + @超哥-电竞队服 怒吼 + 风暴之锤音效 + 神圣之剑挥舞声 + 团灭胜利音效；战斗激烈 BGM 战鼓节奏。3D国漫风格，电影级光影，8K画质。DOTA2 斯温风暴之锤、神圣之剑特效严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "斯温-超哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/斯温-超哥.jpg",
+          "mentionText": "斯温-超哥"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "系统音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav",
+          "mentionText": "系统音"
+        },
+        {
+          "name": "超哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3",
+          "mentionText": "超哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "斯温-超哥",
+          "position": 24
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 41
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 50
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 61
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 165
+        },
+        {
+          "type": "character",
+          "name": "斯温-超哥",
+          "position": 231
+        },
+        {
+          "type": "character",
+          "name": "斯温-超哥",
+          "position": 475
+        },
+        {
+          "type": "character",
+          "name": "斯温-超哥",
+          "position": 516
+        },
+        {
+          "type": "character",
+          "name": "斯温-超哥",
+          "position": 552
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 587
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 675
+        },
+        {
+          "type": "audio",
+          "name": "超哥声音",
+          "position": 684
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 786
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V08",
+      "sceneName": "训练室复盘 + 兽王的 鸟 血红任务",
+      "duration": 11,
+      "prompt": "V08V08\n> @小黑-电竞队服、@超哥-电竞队服、@鲷哥-电竞队服 作为角色外貌参考。@训练室复盘区 作为背景参考。@系统音 / 系统面板 作为非人实体参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：中景，缓慢推进。三人围坐电脑前，屏幕回放中期 @肉山 团前 @兽王-鲷哥 的战鹰挂在野区角落；@小黑-电竞队服 面前半透明系统面板弹出血红【兽王的 @鸟 】任务卡。\n> 镜头2：近景，顺势推近。镜头落至 @小黑-电竞队服 面部——看到任务卡眉毛一抽、嘴角下撇、眼神挣扎。\n> @系统音（系统声音，冰冷血红任务卡）说：「紧急任务发布——【兽王的鸟】。请在接下来的复盘中，故意指责队友的兽王没有控鸟侦查，导致团队视野缺失，并成功将锅甩给队友。」（语气：冰冷告警）\n> @小黑-电竞队服 说：「又来？这次连兽王的鸟都要甩锅？」（语气：内心独白、崩溃无奈）\n> 冷蓝色调 + 血红任务卡光；冷白灯嗡嗡声 + 屏幕回放音 + 系统冰冷机械音；神秘诡异 BGM 低音提琴。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "训练室复盘区",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg",
+          "mentionText": "训练室复盘区"
+        },
+        {
+          "name": "肉山",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/肉山.jpg",
+          "mentionText": "肉山"
+        },
+        {
+          "name": "兽王-鲷哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/兽王-鲷哥.jpg",
+          "mentionText": "兽王-鲷哥"
+        },
+        {
+          "name": "鸟",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鸟.jpg",
+          "mentionText": "鸟"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "系统音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav",
+          "mentionText": "系统音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 24
+        },
+        {
+          "type": "character",
+          "name": "训练室复盘区",
+          "position": 42
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 57
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 142
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 149
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 166
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 193
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 221
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 257
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 351
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V09",
+      "sceneName": "小黑-电竞队服 拍桌指屏 + 鲷哥-电竞队服 平静防守（合并原 V09+V10）",
+      "duration": 15,
+      "prompt": "V09V09\n> @小黑-电竞队服、@鲷哥-电竞队服 作为角色外貌参考。@兽王-鲷哥、@鸟 作为游戏内英雄/单位参考。@训练室复盘区 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：中近景，固定机位。@小黑-电竞队服 猛一拍桌站起半身、右手指向回放屏幕——屏幕上战鹰-鲷哥 停在野区角落 15 秒不动、屏幕外用红圈标出战鹰位置；他眉头拧起、嘴唇抿紧后张开连珠炮、下颌前伸。\n> 镜头2：过肩镜头，固定机位（保持 180° 轴线）。相机架于 @小黑-电竞队服 肩后（轴线 A 侧），拍画面右侧 @鲷哥-电竞队服（轴线 B 侧）；@鲷哥-电竞队服 靠椅背双手交叉、不起身仅微抬眼；屏幕回放在他侧面。\n> 镜头3：近景，顺势推近。镜头落至 @鲷哥-电竞队服 面部——眼神平淡不带火气、嘴角微压、呼吸平稳；随后眉头微皱、脾气上来。\n> @小黑-电竞队服 说：「你这鸟停在这里！我给你看看对面在干嘛？对面没开雾！你的鸟如果停在这里，他凭什么越我们中？他凭什么？你兽王两级鸟不停森林！你不看符！你兽王玩的是什么？」（语气：拍桌严厉、连珠炮）\n> @鲷哥-电竞队服（@鲷哥声音）说：「你继续看！我就告诉你我的鸟先停在这儿！你自己看！我现在鸟在哪儿？」（语气：愣了一下、平淡防守）\n> @鲷哥-电竞队服（@鲷哥声音）说：「这波怎么都死了！关我鸟事啊？我就问你赏金能不能控符？再说影响到了什么？影响大吗？」（语气：眉头微皱、脾气上来）\n> 冷蓝色调 + 暗红色调（小黑指屏端）+ 训练室冷白灯 + 屏幕红圈高亮；拍桌音效 + 屏幕回放音 + @小黑-电竞队服 连珠炮 + @鲷哥-电竞队服 低沉防守人声 + 椅子微响；紧张对峙 BGM 渐强。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；DOTA2 兽王与战鹰形象严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "兽王-鲷哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/兽王-鲷哥.jpg",
+          "mentionText": "兽王-鲷哥"
+        },
+        {
+          "name": "鸟",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鸟.jpg",
+          "mentionText": "鸟"
+        },
+        {
+          "name": "训练室复盘区",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg",
+          "mentionText": "训练室复盘区"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 40
+        },
+        {
+          "type": "character",
+          "name": "训练室复盘区",
+          "position": 56
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 121
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 241
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 267
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 284
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 338
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 385
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 488
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 497
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 556
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 565
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 683
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 698
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V10",
+      "sceneName": "小黑-电竞队服 乘胜追击 + 超哥-电竞队服 弱弱附和 + 鲷哥-电竞队服 承认",
+      "duration": 12,
+      "prompt": "V10V10\n> @小黑-电竞队服、@超哥-电竞队服、@鲷哥-电竞队服 作为角色外貌参考。@训练室复盘区 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：双人镜头，固定机位。画面左侧 @小黑-电竞队服 继续指屏；中间 @超哥-电竞队服 抱臂靠椅背、身体侧向 @鲷哥-电竞队服 但眼神飘；右侧 @鲷哥-电竞队服 深吸气摇头笑。\n> 镜头2：近景，顺势推近。镜头切至三人面部轮换——@小黑-电竞队服 嘲讽紧逼；@超哥-电竞队服 挠头、眼神游离；@鲷哥-电竞队服 眉头微皱、嘴角一丝无奈笑。\n> @小黑-电竞队服 说：「15 秒！停了 15 秒在这里！你的鸟呢？野区一片黑！」（语气：嘲讽追击）\n> @小黑-电竞队服 说：「影响不大吗？你问问超哥，有信息是不是比没有信息好？」（语气：音量提高）\n> @超哥-电竞队服（@超哥声音）说：「确实啊……」（语气：抱臂弱弱）\n> @鲷哥-电竞队服（@鲷哥声音）说：「行，你们说的都对。我鸟下次停过去！我承认这些细节，我下次停过去！」（语气：被夹击恼火又无奈）\n> @小黑-电竞队服 说：「队长，这波锅，你必须全背！你要是不服气，你就证明给我们看，兽王的鸟到底有没有用！」（语气：内心窃喜面上理直气壮）\n> 冷暖交织色调 + 训练室冷白光；三人对话人声 + 屏幕回放音；紧张对峙 BGM 逐渐缓和。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "训练室复盘区",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg",
+          "mentionText": "训练室复盘区"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "超哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3",
+          "mentionText": "超哥声音"
+        },
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 24
+        },
+        {
+          "type": "character",
+          "name": "训练室复盘区",
+          "position": 42
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 113
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 130
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 150
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 167
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 210
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 224
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 241
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 266
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 318
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 368
+        },
+        {
+          "type": "audio",
+          "name": "超哥声音",
+          "position": 377
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 404
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 413
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 471
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V11",
+      "sceneName": "鲷哥-电竞队服 拉扯 Buff + 战鹰开全图 + 超哥-电竞队服 兴奋",
+      "duration": 11,
+      "prompt": "V11V11\n> @鲷哥-电竞队服、@超哥-电竞队服 作为真人角色参考。@兽王-鲷哥、@鸟 作为游戏内英雄/单位参考。@训练室复盘区 → 对战@森林 → @比赛选手席 作为背景参考。@系统音 / 系统面板 作为非人实体参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：跟随航拍 + 低角度补充，跟随镜头。系统面板绿色【拉扯 Buff】图标叠加隐藏【\"@鸟 \"的执念】特效；@鲷哥-电竞队服 身上泛起金色拉扯光晕；切至战场——@兽王-鲷哥 伸手召出战鹰（@鸟）；相机以 @鸟 飞行路径贴近跟拍：掠过敌方野区草丛、@肉山 坑上方、敌方高地边缘；每掠过一处原本灰雾笼罩的草丛\"唰\"地亮起来、隐藏的敌方打野身形被照亮暴露；低角度仰拍补一记——@鸟 展翅从画面前景掠过，敌方打野抬头惊愕。\n> 镜头2：近景，顺势推近。切至 @比赛选手席 ——@超哥-电竞队服 兴奋大喊。\n> @系统音（系统声音，绿色面板提示）说：「甩锅成功！鲷哥获得【拉扯 Buff：防御+400%，拉扯能力+600%】，同时触发隐藏效果【\"鸟\"的执念：视野意识+1000%】，持续 4 分钟。」（语气：系统通告清脆）\n> @超哥-电竞队服（@超哥声音）说：「卧槽，队长这鸟开全图了！对面跟没穿裤子一样！」（语气：兴奋大喊）\n> 暖金色调 + 金色拉扯光晕；系统锵音 + 战鹰振翅声 + @超哥-电竞队服 兴奋人声；日常轻松 BGM 轻快古风。3D国漫风格，电影级光影，8K画质。DOTA2 兽王、战鹰形象严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        },
+        {
+          "name": "兽王-鲷哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/兽王-鲷哥.jpg",
+          "mentionText": "兽王-鲷哥"
+        },
+        {
+          "name": "鸟",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鸟.jpg",
+          "mentionText": "鸟"
+        },
+        {
+          "name": "训练室复盘区",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg",
+          "mentionText": "训练室复盘区"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        },
+        {
+          "name": "肉山",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/肉山.jpg",
+          "mentionText": "肉山"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "系统音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav",
+          "mentionText": "系统音"
+        },
+        {
+          "name": "超哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/超哥声音.MP3",
+          "mentionText": "超哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 40
+        },
+        {
+          "type": "character",
+          "name": "训练室复盘区",
+          "position": 56
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 68
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 74
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 88
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 191
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 202
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 228
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 242
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 250
+        },
+        {
+          "type": "character",
+          "name": "肉山",
+          "position": 271
+        },
+        {
+          "type": "character",
+          "name": "鸟",
+          "position": 333
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 373
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 382
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 399
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 507
+        },
+        {
+          "type": "audio",
+          "name": "超哥声音",
+          "position": 516
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 589
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V12",
+      "sceneName": "鲷哥-电竞队服 摘耳机平静回眸 + 小黑-电竞队服 嘀咕",
+      "duration": 9,
+      "prompt": "V12V12\n> @鲷哥-电竞队服、@小黑-电竞队服 作为角色外貌参考。@训练室复盘区 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：特写，缓慢推进。@鲷哥-电竞队服 双手摘下耳机放桌面、缓缓转头看向 @小黑-电竞队服；@小黑-电竞队服 尴尬挠头不敢直视；画面定格在 @超哥-电竞队服 大笑拍桌的背景动态中。\n> 镜头2：特写，顺势推近。镜头落至 @鲷哥-电竞队服 眼神——平静温和带穿透力、嘴角若有若无上扬。\n> @鲷哥-电竞队服（@鲷哥声音）说：「小黑，下次想让我认真打，直接说。不用拐弯抹角甩锅。还有，兽王的鸟，确实有用。」（语气：平静温和、老将的通透）\n> @小黑-电竞队服 说：「……这老头，早看穿了。」（语气：愣住、小声嘀咕、眼神复杂）\n> 暖橙色调 + 训练室昏暗暖光；@鲷哥-电竞队服 低沉人声 + @小黑-电竞队服 嘀咕 + 远景 @超哥-电竞队服 大笑；温情浪漫 BGM 舒缓古风弦乐 + 笛声悠扬。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "训练室复盘区",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/训练室复盘区.jpg",
+          "mentionText": "训练室复盘区"
+        },
+        {
+          "name": "超哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/超哥-电竞队服.png",
+          "mentionText": "超哥-电竞队服"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "训练室复盘区",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 97
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 123
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 132
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 156
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 196
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 230
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 239
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 305
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 364
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 380
+        },
+        {
+          "type": "character",
+          "name": "超哥-电竞队服",
+          "position": 397
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V13",
+      "sceneName": "决赛现场全景 + 小黑-电竞队服 送宝石白给",
+      "duration": 12,
+      "prompt": "V13V13\n> @小黑-电竞队服 作为游戏内英雄参考。对战@森林 作为背景参考。敌方五英雄 作为对手方参考。@真视宝石 作为道具参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：大远景，升降镜头。大屏幕特写\"不朽杯决赛\"金色大字；相机从观众席升起扫过全场；观众呐喊四起。\n> 镜头2：贴地跟拍 + 低角度特写。@小黑-电竞队服 操作的游戏英雄（画面中央主体、独自一人）装备栏左上角亮着一颗绿色@真视宝石 图标；他从我方野区边缘出发沿@森林 阴影径直朝敌方三角野区深处的高草丛走去；相机贴地跟拍、四周异常安静；走入草丛一瞬，四个方向同时窜出五名敌方——敌方中单 双手凝出蓝色闪电狠狠劈在他胸口、敌方 1 号位 横斩命中腰间、敌方游走 利箭命中背部、敌方辅助 喷出冰锥冻住双腿、敌方 2 号位 短剑残影织成交叉刀网；五人技能在 0.3 秒内同时命中、血条瞬间清零、身形化作绿色光点消散；一颗绿色@真视宝石 从他尸体位置弹飞出来、落地立起旋转散出一圈绿色视野光晕；敌方五人围在宝石旁比出\"六\"的手势欢呼。\n> 镜头3：特写，顺势推近。镜头落至地面上那颗缓慢旋转的绿色 @真视宝石，宝石内核闪烁绿色流光。\n> @小黑-电竞队服 说：「系统这是玩我呢？送宝石就算了，还要甩锅说是战术，这也太离谱了。没办法，为了结束轮回，只能硬着头皮上了。系统让我送宝石，还要甩锅说这是'诱敌计划'，希望这老头们能信吧。」（语气：内心独白、无奈又吐槽）\n> 冷暖交织色调 + 决赛舞台灯光 + 宝石金光；观众呐喊 + 埋伏击杀音效 + 宝石掉落音效 + 嘘声；战斗激烈 BGM 急促弦乐。3D国漫风格，电影级光影，8K画质。DOTA2 宝石视觉严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        },
+        {
+          "name": "真视宝石",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/真视宝石.jpg",
+          "mentionText": "真视宝石"
+        }
+      ],
+      "sceneImages": [],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 27
+        },
+        {
+          "type": "character",
+          "name": "真视宝石",
+          "position": 52
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 172
+        },
+        {
+          "type": "character",
+          "name": "真视宝石",
+          "position": 213
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 233
+        },
+        {
+          "type": "character",
+          "name": "真视宝石",
+          "position": 412
+        },
+        {
+          "type": "character",
+          "name": "真视宝石",
+          "position": 498
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 518
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V14",
+      "sceneName": "鲷哥-电竞队服 平淡询问 + 小黑-电竞队服 起身编战术",
+      "duration": 12,
+      "prompt": "V14V14\n> @鲷哥-电竞队服、@小黑-电竞队服 作为角色外貌参考。@比赛选手席 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：近景，固定机位。@鲷哥-电竞队服 转头看 @小黑-电竞队服、双手离键盘抱臂、椅子微靠后；眼神平淡不带怒气、嘴角微垂。\n> 镜头2：中景 → 近景 → 特写，缓慢推进 → 顺势推近。@小黑-电竞队服 快速起身、双手大幅比划、指 @鲷哥-电竞队服 指屏幕、身体前倾；眉飞色舞、眼神故作坚定、嘴角上扬带嘲讽、额头青筋鼓起；镜头落至激动说话的嘴部特写。\n> @鲷哥-电竞队服（@鲷哥声音）说：「这波，你又怎么说？」（语气：平淡、没有生气）\n> @小黑-电竞队服 说：「队长，这波真不怪我！是你刚才在语音里说'可以凶一波'……这叫'口头攻势，实际守势'——你指挥失误交的学费！你身为指挥，一言一行都影响队友判断。这波锅，你必须背 100%！要不是你指挥分裂，我怎么可能一个人冲进对面五人堆？」（语气：快速起身、理直气壮、编战术演技）\n> 冷暖交织色调 + 选手席紫光；@鲷哥-电竞队服 低沉人声 + @小黑-电竞队服 高音编战术人声；紧张对峙 BGM。3D国漫风格，电影级光影，8K画质。发型与配饰全程一致；五官清晰稳定，面部不扭曲不变形；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 15
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 33
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 96
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 109
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 178
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 201
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 263
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 272
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 306
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 467
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 483
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V15",
+      "sceneName": "敌方麦克风挑衅 + 鲷哥-电竞队服 深吸气 + 金光逆转",
+      "duration": 12,
+      "prompt": "V15V15\n> @敌方1号位-电竞队服、@鲷哥-电竞队服 作为真人角色参考。@兽王-鲷哥、@敌法师-超哥、@小黑-电竞队服 操作的英雄 作为游戏内英雄参考。@比赛选手席、对战@森林 作为背景参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：中景 + 特写，固定机位 → 缓慢推进。@比赛选手席 ——@敌方1号位-电竞队服 转头靠近麦克风、嘴角冷笑、眼神轻蔑；切至 @鲷哥-电竞队服 深吸气、缓缓睁眼直视屏幕、眉头紧锁、眼神从平静变锐利。\n> 镜头2：低角度跟拍 + 缓慢环绕。切入战场——@鲷哥-电竞队服（现实层）头顶升起金色光环、金色粒子穿过屏幕射入画面内 @兽王-鲷哥 肩部；@兽王-鲷哥 浑身金光骤增、仰天发出震荡战场的金色咆哮（大招战吼）——圆形金色声浪环以他为中心半径八米扩散、扫过敌方五人——五人同时原地僵住、武器脱手、脚下被金色声浪钉住、头顶弹出黄色眩晕星圈；下一秒 @敌法师-超哥 从画面左侧\"咻——\"消失留下蓝紫色闪烁残影、瞬间出现在敌方后排法师背后反手一刀、金绿色月牙形剑光横切、法师身形对半折下化光；紧接着 @小黑-电竞队服 操作的@龙骑-小黑 从敌方侧翼杀入——张口喷出橙红色龙息火焰扫在敌方 1 号位脚下灼烧、再衔接长尾横扫击飞敌方辅助、最后三下重斧劈砍斩落敌方游走；三人并肩在战场中央背靠背站立、金绿蓝三色技能余辉在身后汇聚成柱形光环升腾。\n> @敌方1号位-电竞队服 说：「就这？还战术？我看你就是菜，只会甩锅。老头加一个嘴炮，哈哈哈哈哈哈！」（语气：麦克风挑衅、轻蔑、嘲笑）\n> @鲷哥-电竞队服（@鲷哥声音）说：「把'送宝石'说成'交学费'，把'指挥脱节'说成'军事心理学'，这嘴皮子不去当解说可惜了。但这波，我要赢！」（语气：深吸一口气、眼神坚定、语气沉稳）\n> 从冷暖交织切至暖金色调 + 金色光环辐射；敌方挑衅笑声 + @鲷哥-电竞队服 低沉沉稳人声 + 金光升腾音效 + 兽王大招战吼 + 闪烁音效 + 团战音效；觉醒突破 BGM 从低沉渐强到辉煌的交响乐。3D国漫风格，电影级光影，8K画质。DOTA2 兽王大招、敌法闪烁特效严格符合官方；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "敌方1号位-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌方1号位-电竞队服.png",
+          "mentionText": "敌方1号位-电竞队服"
+        },
+        {
+          "name": "鲷哥-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/鲷哥-电竞队服.png",
+          "mentionText": "鲷哥-电竞队服"
+        },
+        {
+          "name": "兽王-鲷哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/兽王-鲷哥.jpg",
+          "mentionText": "兽王-鲷哥"
+        },
+        {
+          "name": "敌法师-超哥",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/敌法师-超哥.jpg",
+          "mentionText": "敌法师-超哥"
+        },
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        },
+        {
+          "name": "龙骑-小黑",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/龙骑-小黑.jpg",
+          "mentionText": "龙骑-小黑"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "鲷哥声音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/鲷哥声音.MP3",
+          "mentionText": "鲷哥声音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "敌方1号位-电竞队服",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 18
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 36
+        },
+        {
+          "type": "character",
+          "name": "敌法师-超哥",
+          "position": 43
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 51
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 76
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 85
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 157
+        },
+        {
+          "type": "character",
+          "name": "敌方1号位-电竞队服",
+          "position": 166
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 199
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 261
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 297
+        },
+        {
+          "type": "character",
+          "name": "兽王-鲷哥",
+          "position": 307
+        },
+        {
+          "type": "character",
+          "name": "敌法师-超哥",
+          "position": 408
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 482
+        },
+        {
+          "type": "character",
+          "name": "龙骑-小黑",
+          "position": 494
+        },
+        {
+          "type": "character",
+          "name": "敌方1号位-电竞队服",
+          "position": 604
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 673
+        },
+        {
+          "type": "audio",
+          "name": "鲷哥声音",
+          "position": 682
+        },
+        {
+          "type": "character",
+          "name": "鲷哥-电竞队服",
+          "position": 797
+        }
+      ],
+      "audioRef": null
+    },
+    {
+      "id": "V16",
+      "sceneName": "龙骑-小黑 成型 + 血红终极任务弹窗（EP02 钩子）",
+      "duration": 12,
+      "prompt": "V16V16\n> @龙骑-小黑 作为游戏内英雄参考。@小黑-电竞队服 作为真人角色参考。@比赛选手席、对战@森林 作为背景参考。@系统音 / 系统面板 作为非人实体参考。@BKB-装备图标、@不朽盾 作为道具参考。\n> 3D国漫风格；电影感，高品质CG渲染，电影级光影，8K分辨率。\n> 镜头1：低角度仰拍 → 过肩推进。画面左上角赛事 HUD 显示比分 3:1；@龙骑-小黑 身周缠绕淡金色龙焰光晕（成型 Buff）、步行于破碎的敌方高地塔前；头顶悬浮绿色神盾状图标（@不朽盾）；镜头绕到他身后过肩推进时，画面左下角装备栏 HUD 中一颗黑色王权权杖（BKB）图标明亮点亮；远处敌方高地塔残骸冒烟、敌方只剩一小节血条朝基地撤退。\n> 镜头2：近景，顺势推近。画面突然被血红色警告覆盖；半透明血红系统面板弹出终极任务卡、文字触目惊心。\n> 镜头3：特写，固定机位。切至 @比赛选手席 ——@小黑-电竞队服 脸色瞬间煞白、手指僵在键盘上；眼神从兴奋瞬间空洞、嘴唇颤抖、眉毛一抽。\n> @系统音（系统声音，血红冰冷压迫）说：「终极任务【嘴硬背锅】——请宿主在团战中未按 BKB 被秒，且嘴硬辩解找借口，完成因果闭环，任务失败将永远迷失在数据流中。」（语气：冰冷、字迹血红、压迫感）\n> @小黑-电竞队服 说：「又是我？还要故意不按 BKB 被秒，还要嘴硬找借口？这系统是真的想玩死我啊！」（语气：内心崩溃、声音发颤、脸色煞白）\n> 从暖金骤切至暗红色调 + 血红任务卡光；系统血红警告音 + BKB 黑色能量嗡鸣 + @小黑-电竞队服 发颤内心独白；神秘诡异 BGM 不和谐低音提琴 + 紧张对峙 BGM 渐强。3D国漫风格，电影级光影，8K画质。DOTA2 龙骑、@不朽盾、BKB 严格符合官方视觉；画面稳定流畅，无抖动无重影。任何画面和分镜都不要出现字幕",
+      "characterImages": [
+        {
+          "name": "龙骑-小黑",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/龙骑-小黑.jpg",
+          "mentionText": "龙骑-小黑"
+        },
+        {
+          "name": "小黑-电竞队服",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/小黑-电竞队服.png",
+          "mentionText": "小黑-电竞队服"
+        },
+        {
+          "name": "比赛选手席",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/比赛选手席.jpg",
+          "mentionText": "比赛选手席"
+        },
+        {
+          "name": "森林",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/森林.png",
+          "mentionText": "森林"
+        },
+        {
+          "name": "BKB-装备图标",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/BKB-装备图标.png",
+          "mentionText": "BKB-装备图标"
+        },
+        {
+          "name": "不朽盾",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/character/不朽盾.png",
+          "mentionText": "不朽盾"
+        }
+      ],
+      "sceneImages": [
+        {
+          "name": "系统音",
+          "path": "https://aivideo-1304271062.cos.ap-guangzhou.myqcloud.com/seedance/不朽杯1_a695d51e/audio/系统音.wav",
+          "mentionText": "系统音"
+        }
+      ],
+      "mentions": [
+        {
+          "type": "character",
+          "name": "龙骑-小黑",
+          "position": 6
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 23
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 41
+        },
+        {
+          "type": "character",
+          "name": "森林",
+          "position": 50
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 61
+        },
+        {
+          "type": "character",
+          "name": "BKB-装备图标",
+          "position": 82
+        },
+        {
+          "type": "character",
+          "name": "不朽盾",
+          "position": 92
+        },
+        {
+          "type": "character",
+          "name": "龙骑-小黑",
+          "position": 179
+        },
+        {
+          "type": "character",
+          "name": "不朽盾",
+          "position": 232
+        },
+        {
+          "type": "character",
+          "name": "比赛选手席",
+          "position": 382
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 391
+        },
+        {
+          "type": "audio",
+          "name": "系统音",
+          "position": 438
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 538
+        },
+        {
+          "type": "character",
+          "name": "小黑-电竞队服",
+          "position": 654
+        },
+        {
+          "type": "character",
+          "name": "不朽盾",
+          "position": 728
+        }
+      ],
+      "audioRef": null
+    }
+  ]
+}
